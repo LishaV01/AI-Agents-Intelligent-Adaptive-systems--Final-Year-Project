@@ -1,0 +1,36 @@
+# Core UI and Environment
+gradio==5.12.0
+python-dotenv
+python-multipart==0.0.20
+
+# AI Frameworks (Agentic AI)
+langgraph
+langchain
+langchain-community
+langchain-groq
+langchain-ollama
+
+# API Clients
+groq==0.15.0
+elevenlabs==1.50.3
+
+# Audio processing
+speechrecognition==3.13.0
+pyaudio==0.2.14
+pydub==0.25.1
+gtts==2.5.4
+ffmpy==0.5.0
+
+# Image & Data handling
+pillow==11.1.0
+numpy==2.2.1
+pandas==2.2.3
+pydantic==2.10.5
+
+# Server & Utilities
+fastapi==0.115.6
+uvicorn==0.34.0
+httpx==0.28.1
+aiofiles==23.2.1
+requests==2.32.3
+typing-extensions==4.12.2
