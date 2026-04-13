@@ -7,7 +7,7 @@
 
 An advanced, multi-agent medical diagnostic system powered by **LangGraph**, **Groq**, and **Ollama**. This AI assistant can "see" medical conditions via image uploads, "hear" patient concerns through voice input, and provide a structured consultation report using a collaborative team of specialized AI agents.
 
-The working output has been uploaded as a video with the file name : "Video Project - AI AGENT -Healthcare
+**The working output has been uploaded as a  video with the file name : "Video Project - AI AGENT -Healthcare**
 
 ---
 
